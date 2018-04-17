@@ -1,4 +1,4 @@
-AC_INIT([suprminer], [1.6], [], [suprminer], [https://github.com/ocminer/suprminer])
+AC_INIT([charityminer], [1.1.0], [], [charityminer], [https://github.com/larcea/charityminer])
 
 AC_PREREQ([2.59c])
 AC_CANONICAL_SYSTEM
